@@ -1,3 +1,3 @@
-# Tarea, PR18.
+# PR18, Conectores Externos.
 
 ![conectores](/img/conectores.jpg/)
